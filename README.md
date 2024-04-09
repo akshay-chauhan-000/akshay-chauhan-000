@@ -1,6 +1,6 @@
 👋 Hi, I’m Akshay Chauhan
 
-🌱 I’m currently learning ML, which I hope to apply in chemistry. I'm also proficient in Python, Fortran, and well-versed in LaTeX.
+🌱 I'm a PhD student researching in Computational Polymer Physics. 
 
 📫 How to reach me: [Your Email Address](mailto:akshay.chauhan@students.iiserpune.ac.in)
 
